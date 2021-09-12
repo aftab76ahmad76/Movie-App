@@ -4,3 +4,15 @@
 .cursor{
     cursor: pointer;
 }
+ul {
+    list-style: none !important;
+} 
+a {
+    text-decoration: none !important;
+    color: black !important;
+    margin: 0 10px;
+}
+.active{
+    background: none;
+    
+}
